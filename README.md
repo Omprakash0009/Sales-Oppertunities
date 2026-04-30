@@ -78,7 +78,7 @@ Compare performance across sales managers and evaluate contribution to total sal
 ## Visualization
 Insert your sales manager chart below:
 
-![Sales Manager Report](sales_manager_chart.png)
+![Sales Manager Report](https://github.com/Omprakash0009/Sales-Oppertunities/blob/main/Sales%20Manager%20Report.png?raw=true)
 
 ---
 
