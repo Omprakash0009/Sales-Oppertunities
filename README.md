@@ -46,7 +46,7 @@ Evaluate individual sales agent performance based on sales, opportunities, and w
 ## Visualization
 Insert your sales agent chart below:
 
-![Sales Agent Report](sales_agent_chart.png)
+![Sales Agent Report](https://github.com/Omprakash0009/Sales-Oppertunities/blob/main/Sales%20Agent%20Report.png?raw=true)
 
 ---
 
