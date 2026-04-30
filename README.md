@@ -110,7 +110,7 @@ Evaluate key accounts based on total sales, deals won, and price realization.
 ## Visualization
 Insert your account report chart below:
 
-![Account Report](account_chart.png)
+![Account Report](https://github.com/Omprakash0009/Sales-Oppertunities/blob/main/Account%20Report.png?raw=true)
 
 ---
 
