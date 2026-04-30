@@ -94,7 +94,7 @@ Analyze the conversion of opportunities through each stage of the sales funnel.
 ## Visualization
 Insert your funnel chart below:
 
-![Stage Funnel]([stage_funnel_chart.png](https://github.com/Omprakash0009/Sales-Oppertunities/blob/main/Stage%20Funnel.png?raw=true))
+![Stage Funnel]([stage_funnel_chart.png](https://github.com/Omprakash0009/Sales-Oppertunities/blob/main/Stage%20Funnel.png?raw=true)
 
 ---
 
