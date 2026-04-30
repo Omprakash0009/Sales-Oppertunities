@@ -62,7 +62,7 @@ Analyze product-level sales contribution and identify top-performing products.
 ## Visualization
 Insert your product chart below:
 
-![Product Report](product_chart.png)
+![Product Report](https://github.com/Omprakash0009/Sales-Oppertunities/blob/main/Product%20Report.png?raw=true)
 
 ---
 
