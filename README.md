@@ -44,7 +44,6 @@ Evaluate individual sales agent performance based on sales, opportunities, and w
 - High opportunity volume does not always guarantee higher win rates  
 
 ## Visualization
-Insert your sales agent chart below:
 
 ![Sales Agent Report](https://github.com/Omprakash0009/Sales-Oppertunities/blob/main/Sales%20Agent%20Report.png?raw=true)
 
@@ -60,7 +59,7 @@ Analyze product-level sales contribution and identify top-performing products.
 - GTX Pro and GTX Plus Pro dominate overall revenue (Pareto trend)  
 
 ## Visualization
-Insert your product chart below:
+
 
 ![Product Report](https://github.com/Omprakash0009/Sales-Oppertunities/blob/main/Product%20Report.png?raw=true)
 
@@ -76,7 +75,6 @@ Compare performance across sales managers and evaluate contribution to total sal
 - Variation exists in pipeline contribution across managers  
 
 ## Visualization
-Insert your sales manager chart below:
 
 ![Sales Manager Report](https://github.com/Omprakash0009/Sales-Oppertunities/blob/main/Sales%20Manager%20Report.png?raw=true)
 
@@ -92,7 +90,7 @@ Analyze the conversion of opportunities through each stage of the sales funnel.
 - Conversion rate to closed deals highlights potential improvement areas  
 
 ## Visualization
-Insert your funnel chart below:
+
 
 ![Stage Funnel](https://github.com/Omprakash0009/Sales-Oppertunities/blob/main/Stage%20Funnel.png?raw=true)
 
@@ -108,7 +106,6 @@ Evaluate key accounts based on total sales, deals won, and price realization.
 - High-value accounts contribute significantly to total sales  
 
 ## Visualization
-Insert your account report chart below:
 
 ![Account Report](https://github.com/Omprakash0009/Sales-Oppertunities/blob/main/Account%20Report.png?raw=true)
 
